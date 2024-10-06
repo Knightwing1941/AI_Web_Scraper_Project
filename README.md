@@ -16,6 +16,7 @@ Installation
 1. Clone the Repository:
    
    git clone https://github.com/Knightwing1941/AI_Web_Scraper_Project
+   
    cd AI_Web_Scraper_Project
 
 3. Create a Virtual Environment:
