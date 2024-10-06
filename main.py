@@ -8,7 +8,7 @@ from scrape import (
     clean_body_content,
     extract_body_content,
 )
-from parse import parse_with_ollama
+from scrape import parse_with_ollama
 
 st.title("AI Web Scraper")
 url = st.text_input("Enter a website URL: ")
