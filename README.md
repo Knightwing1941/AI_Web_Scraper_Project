@@ -21,17 +21,17 @@ Installation
 
 3. Create a Virtual Environment:
    
-   python -m venv venv
+   python3 -m venv aiScraper
   
 5. Activate the Virtual Environment:
 
    - On Windows:
      
-     venv\Scripts\activate
+     aiScraper\Scripts\activate
      
    - On MacOS/Linux:
      
-     source venv/bin/activate
+     source aiScraper/bin/activate
      
 
 6. Install Dependencies:
@@ -45,9 +45,9 @@ Installation
 
 3. Run the Scraper:
    
-   python scraper.py
+   streamlit run main.py   
 
-4. View the Results: Extracted data will be saved in a file (`output.json`) or printed to the console, depending on your configuration.
+5. View the Results: Extracted data will be saved in a file (`output.json`) or printed to the console, depending on your configuration.
 
  Configuration
 - Target URL: Specify the URL of the website you wish to scrape.
