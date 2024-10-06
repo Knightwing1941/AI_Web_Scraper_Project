@@ -1,6 +1,6 @@
 AI Web Scraper
 
-This project is an AI-powered web scraper built with Python, based on the YouTube tutorial ["Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING"](https://www.youtube.com/watch?v=Oo8-nEuDBkk&t=223s) by the TechWithTim channel. This scraper uses artificial intelligence to extract data from web pages, making it more versatile compared to traditional scrapers.
+This project is an AI-powered web scraper built with Python. This scraper uses artificial intelligence to extract data from web pages, making it more versatile compared to traditional scrapers.
 
 Features
 - AI-Based Content Extraction: Use AI models to understand the structure of a webpage and extract relevant data.
